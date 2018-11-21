@@ -1,0 +1,1 @@
+# 这是一个通过 socket.io 透传的 node-serialport 前端第三方库
