@@ -1,0 +1,24 @@
+# Build Files
+build
+dist
+.rpt2_cache
+dev/
+client/
+client.7z
+
+# logfiles
+*.log
+
+
+# misc editing tools
+.vscode/
+.idea/
+
+# build tools
+node_modules/
+coverage/
+.nyc_output/
+cmblocks-*.tgz
+
+# Mac
+*.DS_Store

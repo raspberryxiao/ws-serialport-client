@@ -1,0 +1,17 @@
+{
+  "name": "ws-serialport-client",
+  "main": "dist/index.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^12.2.0",
+    "@types/socket.io-client": "^1.4.32",
+    "typescript": "^3.1.6"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
