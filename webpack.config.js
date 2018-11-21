@@ -10,8 +10,8 @@ module.exports = function webpackConfig (env = {}) {
       index: './index.ts'
     },
     output: {
-      path: path.resolve(__dirname, 'build'),
-      filename: 'ws-serialport-client.min.js',
+      path: path.resolve(__dirname, 'dist'),
+      filename: 'index.min.js',
       library: 'ws-serialport-client',
       libraryTarget: 'umd',
     },
