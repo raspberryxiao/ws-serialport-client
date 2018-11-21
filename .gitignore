@@ -1,6 +1,5 @@
 # Build Files
 build
-dist
 .rpt2_cache
 dev/
 client/

@@ -12,6 +12,6 @@
     "typescript": "^3.1.6"
   },
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc -d true"
   }
 }
