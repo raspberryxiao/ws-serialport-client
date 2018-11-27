@@ -12,7 +12,7 @@ module.exports = function webpackConfig (env = {}) {
     output: {
       path: path.resolve(__dirname, 'dist'),
       filename: 'index.min.js',
-      library: 'ws-serialport-client',
+      library: 'WsSerialPortClient',
       libraryTarget: 'umd',
     },
     resolve: {
